@@ -1,0 +1,30 @@
+{
+  "name": "jquery-values",
+  "version": "1.0.0",
+  "homepage": "https://github.com/patsplat/jquery-values",
+  "authors": [
+    "Patrick Way <patrick@reflexionsdata.com>",
+    "Barnabas Kendall"
+  ],
+  "description": "jQuery plugin to update the values of a form",
+  "main": "jquery.values.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "form",
+    "serialize"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "latest"
+  }
+}

@@ -1,2 +1,21 @@
 # jquery-values
-jQuery plugin to update values of a form.
+
+jQuery plugin to get / set values of multiple form elements at once.
+
+```
+// get values
+jQuery('.form-selector').values();
+
+// set values
+jQuery('.form-selector').values({
+	username:'default',
+	email: 'email@domain.com',
+	first_name: 'John',
+	last_name: 'Doe'
+});
+```
+
+## Authors
+
+* Written by [Barnabas Kendall](http://stackoverflow.com/questions/1489486/jquery-plugin-to-serialize-a-form-and-also-restore-populate-the-form/1490431#1490431)
+* Packaged by [Patrick Way](http://patricksdata.com)
