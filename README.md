@@ -14,6 +14,13 @@ jQuery('.form-selector').values({
 	last_name: 'Doe'
 });
 ```
+## Installation
+
+```
+bower install jquery-values
+```
+
+
 
 ## Authors
 

@@ -1,0 +1,23 @@
+{
+  "name": "jquery-values",
+  "version": "1.0.1",
+  "description": "jQuery plugin to update values of a form.",
+  "main": "jquery.values.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patsplat/jquery-values.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "author": "Patrick Way <patrick@reflexionsdata.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patsplat/jquery-values/issues"
+  },
+  "homepage": "https://github.com/patsplat/jquery-values"
+}
