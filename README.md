@@ -25,4 +25,5 @@ bower install jquery-values
 ## Authors
 
 * Written by [Barnabas Kendall](http://stackoverflow.com/questions/1489486/jquery-plugin-to-serialize-a-form-and-also-restore-populate-the-form/1490431#1490431)
-* Packaged by [Patrick Way](http://patricksdata.com)
+* Packaged by [Patrick Way](https://patricksdata.com)
+* Patched by [DaloLorn](https://github.com/DaloLorn)

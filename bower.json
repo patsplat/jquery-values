@@ -1,10 +1,11 @@
 {
   "name": "jquery-values",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/patsplat/jquery-values",
   "authors": [
     "Patrick Way <patrick@reflexionsdata.com>",
-    "Barnabas Kendall"
+    "Barnabas Kendall",
+    "https://github.com/DaloLorn"
   ],
   "description": "jQuery plugin to update the values of a form",
   "main": "jquery.values.js",

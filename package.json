@@ -1,6 +1,6 @@
 {
   "name": "jquery-values",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "jQuery plugin to update values of a form.",
   "main": "jquery.values.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "jquery-plugin",
     "ecosystem:jquery"
   ],
-  "author": "Patrick Way <patrick@reflexionsdata.com>",
+  "author": "Patrick Way <patrick@patricksdata.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/patsplat/jquery-values/issues"
